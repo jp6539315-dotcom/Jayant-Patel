@@ -1,0 +1,6 @@
+{
+  "name": "Folio & Spine — Warm Academic Exchange",
+  "description": "A warm editorial peer-to-peer book and textbook marketplace for students, collectors, and readers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
